@@ -2,7 +2,7 @@ Hi there 👋
 
 # Sr. Full Stack Developer
 
-🏃 I am a senior web/web3 engineer with 8+ years of practical experience passionate about creating valuable products and equipped with a record of success. I contributed to
+🏃 I am a senior web/web3 engineer with 10+ years of practical experience passionate about creating valuable products and equipped with a record of success. I contributed to
 bringing visions of several companies to a reality by making a great progress in the development team, finding solutions and determining customer satisfaction.
 
 ⚡ I love to work with talents in agile work environments. Meaningful and efficient communication is one of my highlighting skills and I consider it one of the most important qualifications of a remote engineer. Here are skills I am familiar with.
